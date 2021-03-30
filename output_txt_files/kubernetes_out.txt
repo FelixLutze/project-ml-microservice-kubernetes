@@ -1,1 +1,7 @@
-<paste log output from Kubernetes-mediated prediction, here>
+(.devops) ec2-user:~/environment/project-ml-microservice-kubernetes (master) $ ./run_kubernetes.sh 
+Error from server (AlreadyExists): pods "machine-learning-api" already exists
+NAME                   READY   STATUS    RESTARTS   AGE
+machine-learning-api   1/1     Running   0          15m
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
