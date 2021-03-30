@@ -4,7 +4,7 @@
 
 This project aims to display my skills in deploying and scaling microservices with Docker and Kubernetes.
 
-## Project Tasks from <a href="https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991">udacity</a>
+## Project Tasks from <a href="https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991">Udacity</a>
 
 Your project goal is to operationalize this working, machine learning microservice using kubernetes, which is an open-source system for automating the management of containerized applications. In this project you will:
 
